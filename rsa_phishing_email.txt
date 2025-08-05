@@ -1,0 +1,10 @@
+From: Recruitment Department <recruitment@rsa.com>
+To: <employee@rsa.com>
+Subject: 2021 Recruitment Plan
+
+Body:
+I forward this file to you for review. Please open and view it.
+
+- Recruitment Team
+
+Attachment: Recruitment_Plan_2021.xls

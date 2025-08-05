@@ -1,0 +1,6 @@
+Received: from suspicious-host.com ([203.0.113.55])
+    by mail.rsa.com (Postfix) with ESMTP id A1234XYZ
+    for <employee@rsa.com>; Mon, 5 Aug 2025 09:12:00 -0500 (EST)
+From: Recruitment Department <recruitment@rsa.com>
+Reply-To: attacker@malicious.com
+Subject: 2021 Recruitment Plan
